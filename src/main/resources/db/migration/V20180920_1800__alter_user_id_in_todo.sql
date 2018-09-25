@@ -1,0 +1,1 @@
+ALTER TABLE todo MODIFY user_id int;
